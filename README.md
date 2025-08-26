@@ -118,13 +118,4 @@ MIT License. Feel free to use and modify this project.
 * [ ] Integrate with a frontend (React/Next.js).
 * [ ] Add memory for multi-session conversations.
 
----
 
-👨‍💻 Built with ❤️ using Python & OpenAI.
-
-```
-
----
-
-Would you like me to also create the **`requirements.txt`** file (with `openai`, `python-dotenv`, etc.) so your users can set it up quickly?
-```
