@@ -62,7 +62,6 @@ The agent can answer travel-related questions by calling custom functions such a
    ```
    OPENAI_API_KEY=your_api_key_here
    ```
-
 ---
 
 ## ▶️ Usage
@@ -105,17 +104,4 @@ The agent has access to these functions:
 * *"Tell me some popular places in London."*
 
 ---
-
-## 📜 License
-
-MIT License. Feel free to use and modify this project.
-
----
-
-## 🚀 Roadmap
-
-* [ ] Add more travel-related actions (restaurants, events, cultural insights).
-* [ ] Integrate with a frontend (React/Next.js).
-* [ ] Add memory for multi-session conversations.
-
 
